@@ -1,0 +1,14 @@
+D:\Training\Assignments\PalindromeNumber\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.exe
+D:\Training\Assignments\PalindromeNumber\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.deps.json
+D:\Training\Assignments\PalindromeNumber\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.runtimeconfig.json
+D:\Training\Assignments\PalindromeNumber\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.dll
+D:\Training\Assignments\PalindromeNumber\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.pdb
+D:\Training\Assignments\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Assignments\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.AssemblyInfoInputs.cache
+D:\Training\Assignments\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.AssemblyInfo.cs
+D:\Training\Assignments\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.csproj.CoreCompileInputs.cache
+D:\Training\Assignments\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.dll
+D:\Training\Assignments\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\refint\PalindromeNumber.dll
+D:\Training\Assignments\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.pdb
+D:\Training\Assignments\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.genruntimeconfig.cache
+D:\Training\Assignments\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\ref\PalindromeNumber.dll
